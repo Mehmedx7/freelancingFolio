@@ -16,6 +16,10 @@
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
     {
+        "name": "Celery",
+        "icon": "./assets/images/celery.svg"
+    },
+    {
         "name": "DRF",
         "icon": "./assets/images/DjangoREST.svg"
     },
