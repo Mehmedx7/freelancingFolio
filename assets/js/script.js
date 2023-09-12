@@ -79,6 +79,8 @@ $(document).ready(function () {
             contactName.value = '';
             contactEmail.value = '';
             Message.value = '';
+            Phone.value = '';
+            
 
         }
     };
