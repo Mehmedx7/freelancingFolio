@@ -63,7 +63,7 @@ $(document).ready(function () {
                 .then(() => {
                     //show message
                     msg.classList.add('color-light');
-                    msg.textContent = 'Message sent✅';
+                    msg.textContent = 'Message sent ✅';
 
                     //remove msg after 5sec
                     setTimeout(() => {
