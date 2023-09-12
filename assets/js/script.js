@@ -67,7 +67,7 @@ $(document).ready(function () {
 
                     //remove msg after 5sec
                     setTimeout(() => {
-                        msg.textContent = '';
+                        contactMessage.textContent = '';
                     }, 5000);
                 },
                     (error) => {
