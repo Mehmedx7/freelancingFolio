@@ -40,8 +40,8 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Travel and Tours Portal",
+    "desc": "Full-Stack Travel and Tours Portal built using Django and Third Party API",
     "image": "instagrammern",
     "category": "mern",
     "links": {
