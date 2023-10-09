@@ -1,45 +1,5 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/mehmedx7"
-    }
-  },
-  {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/mehmedx7"
-    }
-  },
-  {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/mehmedx7"
-    }
-  },
-  {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroida",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/mehmedx7"
-    }
-  },
-  {
     "name": "Travel and Tours Portal",
     "desc": "Full-Stack Travel and Tours Portal built using Django and Third Party API",
     "image": "Veikeishun",
@@ -143,6 +103,46 @@
     "name": "Webview App",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
     "image": "webviewappp",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+   {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
+    "name": "SPPU Engg Prep",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroida",
     "category": "android",
     "links": {
       "view": "#",
