@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "Gym Website",
+    "desc": "Gym Static Website",
+    "image": "Gym",
+    "category": "mern",
+    "links": {
+      "view": "https://gymlandingpg.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
     "name": "Discord Clone",
     "desc": "Tailwind CSS Basic UI Clone",
     "image": "Discord",
