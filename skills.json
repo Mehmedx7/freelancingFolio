@@ -8,6 +8,14 @@
         "icon": "./assets/images/djangoproject.svg"
     },
     {
+        "name": "DRF",
+        "icon": "./assets/images/DjangoREST.svg"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
@@ -20,10 +28,6 @@
         "icon": "./assets/images/celery.svg"
     },
     {
-        "name": "DRF",
-        "icon": "./assets/images/DjangoREST.svg"
-    },
-    {
         "name": "Websocket",
         "icon": "./assets/images/websocket.svg"
     },
@@ -32,20 +36,12 @@
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
-    },
-    {
         "name": "TailwindCSS",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
         "name": "HTML5",
@@ -58,10 +54,6 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
         "name": "MongoDB",
@@ -78,10 +70,6 @@
     {
         "name": "PostgreSQL",
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
-    },
-    {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
         "name": "Netlify",
@@ -103,10 +91,6 @@
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    },    
     {
         "name": "More..",
         "icon": "https://img.icons8.com/color/48/000000/code.png"
