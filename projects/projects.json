@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": "Restro",
+    "desc": "Food Landing Page",
+    "image": "Restro",
+    "category": "mern",
+    "links": {
+      "view": "https://restro-page.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
     "name": "Razorplay-Clone",
     "desc": "Razorplay UI Clone Using Tailwind CSS.",
     "image": "Razorpay",
