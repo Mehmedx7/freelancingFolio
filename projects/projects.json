@@ -59,6 +59,26 @@
       "code": "https://github.com/mehmedx7"
     }
   },
+    {
+    "name": "Weather App",
+    "desc": "A Simple Weather App built using Third party API call",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "https://weatherr-website.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
+    "name": "Password Generator",
+    "desc": "Password Generator App",
+    "image": "password",
+    "category": "mern",
+    "links": {
+      "view": "https://password-generatr.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
   {
     "name": "Home decoration",
     "desc": "Home Decoration website",
@@ -126,26 +146,6 @@
     "category": "mern",
     "links": {
       "view": "https://modern-chair-card.netlify.app/",
-      "code": "https://github.com/mehmedx7"
-    }
-  },
-  {
-    "name": "Weather App",
-    "desc": "A Simple Weather App built using Third party API call",
-    "image": "weather",
-    "category": "mern",
-    "links": {
-      "view": "https://weatherr-website.netlify.app/",
-      "code": "https://github.com/mehmedx7"
-    }
-  },
-  {
-    "name": "Password Generator",
-    "desc": "Password Generator App",
-    "image": "password",
-    "category": "mern",
-    "links": {
-      "view": "https://password-generatr.netlify.app/",
       "code": "https://github.com/mehmedx7"
     }
   },
