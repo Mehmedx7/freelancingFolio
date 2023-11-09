@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "Coffee Website",
+    "desc": "Coffee Static Website",
+    "image": "Coffee",
+    "category": "mern",
+    "links": {
+      "view": "https://coffeelandingpage.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
     "name": "Gym Website",
     "desc": "Gym Static Website",
     "image": "Gym",
