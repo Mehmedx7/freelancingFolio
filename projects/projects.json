@@ -60,6 +60,16 @@
     }
   },
   {
+    "name": "Educational Website",
+    "desc": "Simple Education static website",
+    "image": "Edu",
+    "category": "mern",
+    "links": {
+      "view": "https://educational-page.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
     "name": "Restro",
     "desc": "Food Landing Page",
     "image": "Restro",
