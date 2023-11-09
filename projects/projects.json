@@ -49,6 +49,16 @@
       "code": "https://github.com/mehmedx7"
     }
   },
+    {
+    "name": "Travel Landing Page",
+    "desc": "Travel UI",
+    "image": "Travel",
+    "category": "basicweb",
+    "links": {
+      "view": "https://travelgopage.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },  
   {
     "name": "Mug Card",
     "desc": "A Simple Mug Card",
