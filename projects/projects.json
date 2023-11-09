@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": "Home decoration",
+    "desc": "Home Decoration website",
+    "image": "Homedec",
+    "category": "mern",
+    "links": {
+      "view": "https://home-dco.netlify.app/",
+      "code": "https://github.com/mehmedx7"
+    }
+  },
+  {
     "name": "Restro",
     "desc": "Food Landing Page",
     "image": "Restro",
