@@ -21,7 +21,7 @@
   },
   {
     "name": "VMS with Performance Metrics",
-    "desc": "Developed Django-DRF Vendor Management System with Performance Metrics APIs for efficient vendor processes and clear performance tracking.",
+    "desc": "Django-DRF Vendor System: Efficient vendor processes, precise performance tracking via Performance Metrics APIs.",
     "image": "Vendor",
     "category": "mern",
     "links": {
