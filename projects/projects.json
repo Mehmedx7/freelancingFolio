@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "Vendor Management System with Performance Metrics",
+    "desc": "Vendor Management System with Performance Metrics APIs",
+    "image": "Vendor",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Mehmedx7/vendor_management_system",
+      "code": "https://github.com/Mehmedx7/vendor_management_system"
+    }
+  },
+  {
     "name": "Coffee Website",
     "desc": "Coffee Static Website",
     "image": "Coffee",
