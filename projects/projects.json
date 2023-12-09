@@ -33,7 +33,7 @@
     "name": "EVC Global EV Charging Station",
     "desc": "I Coded the entire OCPP CSMS logic(Backend),[50K+ Downloads]",
     "image": "EvcApp",
-    "category": "app",
+    "category": "android",
     "links": {
       "view": "https://github.com/Mehmedx7/vendor_management_system",
       "code": "https://github.com/Mehmedx7/vendor_management_system"
