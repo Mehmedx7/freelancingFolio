@@ -20,15 +20,15 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
         "name": "Celery",
         "icon": "./assets/images/celery.svg"
     },
     {
         "name": "Websocket",
+        "icon": "./assets/images/websocket.svg"
+    },
+    {
+        "name": "CI/CD",
         "icon": "./assets/images/websocket.svg"
     },
     {
