@@ -36,6 +36,10 @@
         "icon": "./assets/images/Webhook.png"
     },
     {
+        "name": "Signals",
+        "icon": "./assets/images/signals.png"
+    },
+    {
         "name": "CI/CD",
         "icon": "./assets/images/cicd.png"
     },
