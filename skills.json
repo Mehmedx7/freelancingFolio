@@ -32,6 +32,10 @@
         "icon": "./assets/images/dcl.png"
     },
     {
+        "name": "Webhook",
+        "icon": "./assets/images/Webhook.png"
+    },
+    {
         "name": "CI/CD",
         "icon": "./assets/images/cicd.png"
     },
