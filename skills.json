@@ -28,6 +28,10 @@
         "icon": "./assets/images/websocket.svg"
     },
     {
+        "name": "Channels",
+        "icon": "./assets/images/dcl.png"
+    },
+    {
         "name": "CI/CD",
         "icon": "./assets/images/cicd.png"
     },
