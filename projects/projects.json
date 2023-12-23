@@ -1,5 +1,15 @@
 [
   {
+    "name": "EV Startup Centralized Dashboard",
+    "desc": "A centralized hub for real-time insights into electric vehicle (EV) operations, offering key performance metrics, charging station status, fleet efficiency, and sustainability data—all at your fingertips.",
+    "image": "csms",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
     "name": "Travel and Tours Portal",
     "desc": "Full-Stack Travel and Tours Portal built using Django and Third Party API",
     "image": "Veikeishun",
