@@ -102,11 +102,11 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["full stack development", "frontend development", "backend development", "web development", "android development"],
+    strings: ["Full Stack Development", "Frontend Development", "Backend Development", "Website Development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
-    backDelay: 500,
+    backDelay: 600,
 });
 // <!-- typed js effect ends -->
 
