@@ -34,31 +34,24 @@ $(document).ready(function () {
     // <!-- emailjs to mail contact form data -->
 /*=============== contact form =============== */
     const contactForm = document.getElementById('contact-form'),
-        contactName = document.getElementById('contact-name'),
-        Phone = document.getElementById('Phone'),
-        contactEmail = document.getElementById('contact-email'),
-        Message = document.getElementById('message'),
-        msg = document.getElementById('msg'),
-        contactMessage = document.getElementById('contact-message');
+    from_name = document.getElementById('from_name'),
+    phone = document.getElementById('phone'),
+    email_id = document.getElementById('email_id'),
+    message = document.getElementById('message'),
+    msg = document.getElementById('msg')
 
     const sendEmail = (e) => {
         e.preventDefault();
 
-        if (contactName.value === '' || contactEmail.value === '' || Phone.value === '' || Message.value === '') {
-            //add and remove
-            contactMessage.classList.remove('color-light');
-            contactMessage.classList.add('color-dark');
-
-            //show msg
-            contactMessage.textContent = 'Write all the input fields';
-
+        if (from_name.value === '' || email_id.value === '' || phone.value === '' || message.value === '') {
+            alert("Write all the input fields")
         } else {
             //service id - temp =#form - public key
             emailjs.sendForm(
-                'service_gd0w285',
-                'template_8t68jkb',
+                'service_licqu7q',
+                'template_7zujvml',
                 '#contact-form',
-                'y740m8LUwSNGKOapK'
+                '1Wkob30kcmgs8cM42'
             )
                 .then(() => {
                     //show message
@@ -67,7 +60,7 @@ $(document).ready(function () {
 
                     //remove msg after 5sec
                     setTimeout(() => {
-                        contactMessage.textContent = '';
+                        window.location.reload();
                     }, 5000);
                 },
                     (error) => {
@@ -76,10 +69,10 @@ $(document).ready(function () {
                 );
 
             //clear input fields
-            contactName.value = '';
-            contactEmail.value = '';
-            Message.value = '';
-            Phone.value = '';
+            from_name.value = '';
+            email_id.value = '';
+            message.value = '';
+            phone.value = '';
             
 
         }
