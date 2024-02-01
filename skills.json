@@ -16,6 +16,10 @@
         "icon": "./assets/images/GraphQL.svg"
     },
     {
+        "name": "LangChain",
+        "icon": "./assets/images/langchain.svg"
+    },
+    {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
