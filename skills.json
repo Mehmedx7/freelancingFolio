@@ -12,6 +12,10 @@
         "icon": "./assets/images/DjangoREST.svg"
     },
     {
+        "name": "GraphQL",
+        "icon": "./assets/images/GraphQL.svg"
+    },
+    {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
