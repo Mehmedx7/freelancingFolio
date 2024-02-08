@@ -24,10 +24,6 @@
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
         "name": "Websocket",
         "icon": "./assets/images/websocket.svg"
     },
@@ -46,6 +42,10 @@
     {
         "name": "Signals",
         "icon": "./assets/images/signals.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "./assets/images/Docker.png"
     },
     {
         "name": "CI/CD",
