@@ -28,20 +28,20 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Celery",
-        "icon": "./assets/images/celery.svg"
-    },
-    {
         "name": "Websocket",
         "icon": "./assets/images/websocket.svg"
     },
     {
-        "name": "Channels",
-        "icon": "./assets/images/dcl.png"
+        "name": "WebRTC",
+        "icon": "./assets/images/WebRTC.png"
     },
     {
-        "name": "Webhook",
-        "icon": "./assets/images/Webhook.png"
+        "name": "Celery",
+        "icon": "./assets/images/celery.svg"
+    },
+    {
+        "name": "Channels",
+        "icon": "./assets/images/dcl.png"
     },
     {
         "name": "Signals",
@@ -98,10 +98,6 @@
     {
         "name": "DigitalOcean",
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
         "name": "Git",
