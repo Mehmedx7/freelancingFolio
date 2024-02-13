@@ -1,5 +1,15 @@
 [
   {
+    "name": "Mobile APP - EV Charging | 50K+ ⬇️",
+    "desc": "I Coded the entire OCPP CSMS logic(Backend),[50K+ Downloads]",
+    "image": "chargingapp",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.makinindia.evc&hl=en&gl=US",
+      "code": "#"
+    }
+  },
+  {
     "name": "EV Startup Centralized Dashboard",
     "desc": "A centralized hub for real-time insights into electric vehicle (EV) operations, offering key performance metrics, charging station status, fleet efficiency, and sustainability data—all at your fingertips.",
     "image": "csms",
@@ -37,16 +47,6 @@
     "links": {
       "view": "https://github.com/Mehmedx7/vendor_management_system",
       "code": "https://github.com/Mehmedx7/vendor_management_system"
-    }
-  },
-  {
-    "name": "EVC Global Mobile APP - EV Charging",
-    "desc": "I Coded the entire OCPP CSMS logic(Backend),[50K+ Downloads]",
-    "image": "EvcApp",
-    "category": "android",
-    "links": {
-      "view": "https://play.google.com/store/apps/details?id=com.makinindia.evc&hl=en&gl=US",
-      "code": "#"
     }
   },
   {
