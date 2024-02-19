@@ -30,12 +30,12 @@
     }
   },
   {
-    "name": "EV Charging Server (OCPP1.6)",
-    "desc": "Full-Stack Web Application with Admin Dashboard and Paytm Payment Gateway, ready to use for business.",
+    "name": "Web App - EV Charging (OCPP1.6)",
+    "desc": "Full-Stack Web Application with Razorpay Payment Gateway Integration, ready to use for CPO.",
     "image": "EVC",
     "category": "mern",
     "links": {
-      "view": "https://webapp.evcglobal.in/",
+      "view": "#",
       "code": "#"
     }
   },
