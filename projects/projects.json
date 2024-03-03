@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": "ECOMZY - React Store",
+    "desc": "I recently completed a project where I developed a small-scale React store from scratch",
+    "image": "reactstore",
+    "category": "mern",
+    "links": {
+      "view": "https://react-storee.netlify.app/",
+      "code": "https://github.com/Mehmedx7/React-store"
+    }
+  },
+  {
     "name": "VMS with Performance Metrics",
     "desc": "Django-DRF Vendor System: Efficient vendor processes, precise performance tracking via Performance Metrics APIs.",
     "image": "Vendor",
