@@ -28,19 +28,11 @@
         "icon": "./assets/images/websocket.svg"
     },
     {
-        "name": "WebRTC",
-        "icon": "./assets/images/WebRTC.png"
-    },
-    {
         "name": "Celery",
         "icon": "./assets/images/celery.svg"
     },
     {
-        "name": "Channels",
-        "icon": "./assets/images/dcl.png"
-    },
-    {
-        "name": "Signals",
+        "name": "Dj-Signals",
         "icon": "./assets/images/signals.png"
     },
     {
@@ -74,10 +66,6 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
         "name": "Redis",
